@@ -1,0 +1,108 @@
+@media (max-width:1199.98px){
+    .navbar-nav {
+        margin-left:0;
+    }
+    .navbar-nav .nav-item:not(:last-child) {
+        margin-left: 6px;
+        padding-right: 0px;
+    }
+    .navbar-nav .nav-item .nav-link {
+        font-size: 12px;
+        font-weight: 700;
+    }
+    .call-box a {
+        font-size: 14px;
+        font-weight: 600;
+        color: #01294c;
+    }
+    .call-box a i.bx.bx-phone-call {
+        vertical-align: middle;
+        color: #318351;
+        font-size: 18px;
+        font-weight: 700;
+    }
+    .bnr-left h1 {
+        font-size: 30px;
+    }
+    .bnr-left p {
+        color: #fff;
+        font-size: 20px;
+        margin-top: 4px;
+    }
+    .bnr-left h1 span{
+        font-size: 38px;
+    }
+    .owl-carousel .owl-nav button.owl-prev{
+        left: -3%;
+    }
+    .owl-carousel .owl-nav button.owl-next{
+        right: -3%;
+    }
+}
+
+
+@media(max-width:991.98px){
+    .real-sound img {
+        width: 100%;
+    }
+    .main-header{
+        padding: 15px 15px 0;
+    }
+    .bnr-left h1 span {
+        font-size: 42px;
+    }
+    .bnr-left h1 {
+        font-size: 42px;
+    }
+    .bnr-left {
+        padding: 150px 50px 60px;
+        text-align: center;
+    }
+    .abt-txt {
+        margin-top: 44px;
+    }
+    .extra-srvctxt{
+        display: block;
+        text-align: center;
+    }
+    .extra-srvctxt p {
+        margin-bottom: 40px;
+    }
+    .solution-box{
+        padding: 50px 96px;
+    }
+    .btn-groups3 .green-btn{
+        width: 200px;
+    }
+    .ftr-menu .list-unstyled {
+        display:block;
+    }
+    .ftr-2list ul {
+        display:block;
+    }
+    .footer_sec a{
+        font-size: 13px;
+    }
+
+}
+
+@media (max-width: 767.98px) {
+    .trusted-partners h5{
+        font-size: 14px;
+    }
+    .logo-award{
+        padding: 10px;
+    }
+    .navbar-brand img {
+        width: 70px;
+    }
+    .srvc-box {
+        margin-bottom: 30px;
+    }
+    .services .row > div:not(:last-child) {
+        border-right:none;
+    }
+    .blog-badge {
+        margin-top: 20px;
+    }
+}
